@@ -1,20 +1,24 @@
 # FocusFlow_v1.0
  This is a student project created and maintained through Intro to Software Engineering class in the New York Institute Of Technology.
- #Contributors
+ 
+ ##Contributors
+ 
  Dennis
  Pavel
  Mason
  Terell
  Alejandro
-#User guide
-#Technology stack:
+ 
+##User guide
+
+##Technology stack:
 -Flutter/Dart, 
 -VS Code,
 -Android Studio emulators(Pixel 6),
 -OS - Android/iOS(iPhone 8).
 -Required software: Flutter, Dart compiler, code editor, either hardware or an emulator of a mobile phone.
 
-#Setup guide 
+##Setup guide 
 
 ## Prerequisites  
 
@@ -53,9 +57,9 @@ Then pull the project to the folder of choice and open it in VS Code.
 - Run flutter pub get in the application
 
 
-#Features and Technical Implementations
+##Features and Technical Implementations
 
-#Packages and APIs
+##Packages and APIs\n
 
 We have picked package [syncfusion_flutter_calendar](https://pub.dev/packages/syncfusion_flutter_calendar) from its official site. It was picked as it allows additional convenient instruments to use and edit calendars.
 The link above has the links to the API of the package.
