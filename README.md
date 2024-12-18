@@ -51,7 +51,7 @@ Once the required tools are installed, follow these steps to set up Flutter in V
 Then pull the project to the folder of choice and open it in VS Code.
 ## Add missing dependencies
 - Run flutter pub get in the application
-
+--
 #Features and Technical Implementations
 
 #Packages and APIs
