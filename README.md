@@ -51,9 +51,11 @@ Once the required tools are installed, follow these steps to set up Flutter in V
 Then pull the project to the folder of choice and open it in VS Code.
 ## Add missing dependencies
 - Run flutter pub get in the application
---
+
+
 #Features and Technical Implementations
 
 #Packages and APIs
+
 We have picked package [syncfusion_flutter_calendar](https://pub.dev/packages/syncfusion_flutter_calendar) from its official site. It was picked as it allows additional convenient instruments to use and edit calendars.
 The link above has the links to the API of the package.
