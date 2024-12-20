@@ -4,11 +4,11 @@ This is a student project created and maintained through the Intro to Software E
 
 ## Contributors
 
-- Dennis
-- Pavel
-- Mason
-- Terell
-- Alejandro
+- Dennis Grigoriyev   
+- Pavel Skasyrskiy
+- Mason Kubiak
+- Terell Bell
+- Alejandro Lebron
 
 ## User Guide
 
